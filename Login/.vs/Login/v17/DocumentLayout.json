@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\C#Practice\\Login\\Login\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9C2F3DB-48E6-4D38-B0E5-66BAFA374A66}|Login\\Login.csproj|d:\\c#practice\\login\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C2F3DB-48E6-4D38-B0E5-66BAFA374A66}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9C2F3DB-48E6-4D38-B0E5-66BAFA374A66}|Login\\Login.csproj|d:\\c#practice\\login\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E9C2F3DB-48E6-4D38-B0E5-66BAFA374A66}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#Practice\\Login\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "D:\\C#Practice\\Login\\Login\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:43:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\C#Practice\\Login\\Login\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",

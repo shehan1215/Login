@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Login
 {
@@ -19,7 +20,25 @@ namespace Login
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (textBox1.Text == "")
+            {
+                MessageBox.Show("Enter the username");
+            }
+            else if (textBox2.Text == "")
+            {
+                MessageBox.Show("Enter the Password");
+            }
+            else 
+            {
+                try
+                {
 
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("" + ex);
+                }
+            }
         }
     }
 }
